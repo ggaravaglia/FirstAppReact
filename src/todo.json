@@ -1,0 +1,22 @@
+{
+    "todo" :[
+        {
+            "title": "tarea 1",
+            "responsable":"tito",
+            "description":"una derctipcion",
+            "priority":"baja"   
+        },
+        {
+            "title": "tarea 2",
+            "responsable":"pepe",
+            "description":"otra descripcion",
+            "priority":"medio"   
+        },
+        {
+            "title": "tarea 3",
+            "responsable":"cacu",
+            "description":"3era decripcion",
+            "priority":"alta"   
+        }
+    ]
+}
