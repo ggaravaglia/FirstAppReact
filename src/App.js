@@ -44,7 +44,7 @@ class App extends Component {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Primer aplicacion en React
+          un cambio en la pc del trabajo para aplicacion en React
         </a>
       </header>
     </div>
